@@ -5,6 +5,7 @@ I implemented it in python once again
 It seems to be slower than my old version for some reason (I might have messed up rewriting it)
 
 To do if I pursue this again:
+- Clean the play_chess file 
 - Implement in C
 - Implement a check & checkmate system & detecting if someone won/lost 
 - Implement alpha beta pruning to increase depth
