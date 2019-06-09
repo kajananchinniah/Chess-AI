@@ -1,8 +1,7 @@
-# chess-ai-assignment-cleaned
+# Chess AI
 
-A cleaner version of my previous chess ai
-I implemented it in python once again
-It seems to be slower than my old version for some reason (I might have messed up rewriting it). See the other version for a possibly better/faster playing AI, but this version has more readable code. 
+A cleaner version of my previous chess ai (that has since been privated)
+It seems to be slower than my old version for some reason (I might have messed up rewriting it). 
 
 To do if I pursue this again:
 - Clean the play_chess file 
